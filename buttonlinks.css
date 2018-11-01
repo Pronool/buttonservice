@@ -61,3 +61,43 @@ a.button_depositfiles:hover { color: #111111; text-decoration:underline; font-we
 a.button_depositfiles:active { color: #111111; text-decoration:none; font-weight:normal; }
 
 /*----------------end depositfiles--------*/
+
+
+a.button_rapidgator:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_rapidgator:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_rapidgator:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_rapidgator:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end rapidgator--------*/
+
+a.button_gettsharing:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_gettsharing:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_gettsharing:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_gettsharing:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end getsahring--------*/
+
+
+a.button_solidfiles:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_solidfiles:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_solidfiles:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_solidfiles:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end solidfiles--------*/
+
+
+a.button_1fichier:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_1fichier:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_1fichier:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_1fichier:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end 1fichier--------*/
+
+
+
+a.button_tusfiles:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_tusfiles:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_tusfiles:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_tusfiles:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end tusfiles--------*/
