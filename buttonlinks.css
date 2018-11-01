@@ -1,15 +1,15 @@
 /*-----agar link warna berubah ---------*/
-a.button_zippyshare:link { color:#FFF; text-decoration:none; font-weight:normal; }
-a.button_zippyshare:visited { color: #FFF; text-decoration:none; font-weight:normal; }
-a.button_zippyshare:hover { color: #FFF; text-decoration:underline; font-weight:normal; }
-a.button_zippyshare:active { color: #FFF; text-decoration:none; font-weight:normal; }
+a.button_zippyshare:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_zippyshare:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_zippyshare:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_zippyshare:active { color: #111111; text-decoration:none; font-weight:normal; }
 
 /*--------------end ziphhyshare------------*/
 
-a.button_datafilehost:link { color:#FFF; text-decoration:none; font-weight:normal; }
-a.button_datafilehost:visited { color: #FFF; text-decoration:none; font-weight:normal; }
-a.button_datafilehost:hover { color: #FFF; text-decoration:underline; font-weight:normal; }
-a.button_datafilehost:active { color: #FFF; text-decoration:none; font-weight:normal; }
+a.button_datafilehost:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_datafilehost:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_datafilehost:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_datafilehost:active { color: #111111; text-decoration:none; font-weight:normal; }
 
 /*-------------end datafilehost------------*/
 
@@ -30,6 +30,34 @@ a.button_indishare:active { color: #111111; text-decoration:none; font-weight:no
 /*----------------end indihsare--------*/
 
 
+a.button_openload:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_openload:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_openload:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_openload:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end openload--------*/
 
 
 
+
+a.button_mega:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_mega:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_mega:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_mega:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end mega--------*/
+
+
+a.button_googledrive:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_googledrive:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_googledrive:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_googledrive:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end googledrive--------*/
+
+a.button_depositfiles:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_depositfiles:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_depositfiles:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_depositfiles:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end depositfiles--------*/
