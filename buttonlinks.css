@@ -20,7 +20,15 @@ a.button_filecloud:visited { color: #111111; text-decoration:none; font-weight:n
 a.button_filecloud:hover { color: #111111; text-decoration:underline; font-weight:normal; }
 a.button_filecloud:active { color: #111111; text-decoration:none; font-weight:normal; }
 
-/*-------------end datafilehost------------*/
+/*-------------end filecloud------------*/
+
+a.button_indishare:link { color:#111111; text-decoration:none; font-weight:normal; }
+a.button_indishare:visited { color: #111111; text-decoration:none; font-weight:normal; }
+a.button_indishare:hover { color: #111111; text-decoration:underline; font-weight:normal; }
+a.button_indishare:active { color: #111111; text-decoration:none; font-weight:normal; }
+
+/*----------------end indihsare--------*/
+
 
 
 
