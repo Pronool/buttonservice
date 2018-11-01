@@ -4,5 +4,12 @@ a.button_zippyshare:visited { color: #FFF; text-decoration:none; font-weight:nor
 a.button_zippyshare:hover { color: #FFF; text-decoration:underline; font-weight:normal; }
 a.button_zippyshare:active { color: #FFF; text-decoration:none; font-weight:normal; }
 
-/*--------------ednd ziphhyshare------------*/
+/*--------------end ziphhyshare------------*/
+
+a.button_datafilehost:link { color:#FFF; text-decoration:none; font-weight:normal; }
+a.button_datafilehost:visited { color: #FFF; text-decoration:none; font-weight:normal; }
+a.button_datafilehost:hover { color: #FFF; text-decoration:underline; font-weight:normal; }
+a.button_datafilehost:active { color: #FFF; text-decoration:none; font-weight:normal; }
+
+/*-------------end datafilehost------------*/
 
